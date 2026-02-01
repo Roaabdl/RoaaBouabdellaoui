@@ -2,44 +2,69 @@
 Profil GitHub de Roaa Bouabdellaoui — Étudiante en ingénierie SI
 ## 👋 Hi, I'm Roaa
 
-🎓 Engineering student in **Information Systems**, with a strong focus on **data, system design, and architecture**.  
-I work on projects that combine **data processing, software engineering, and structured system thinking**, and I’m currently expanding my skills toward **cloud, security, and AI**.
+I'm an **Information Systems engineering student** currently completing my degree through a **work-study program**.  
+I’m passionate about **data, system design, and software architecture**, and I enjoy working on projects where I can combine **practical coding, problem-solving, and system thinking**.  
+
+I’m always exploring new technologies, and right now I’m expanding my skills in **cloud computing, security, and AI**, while applying what I’ve learned in my projects.
 
 ---
 
-## 🧭 Main Areas of Interest
-- Information Systems Design & Architecture  
-- Data Engineering & Big Data  
-- Software Engineering (Object-Oriented Design)  
-- Data Analysis & Decision Support Systems  
+## 🧭 What I Do
+
+During my studies, I’ve focused on building **realistic systems** that solve practical problems, from **data pipelines** to **full applications with user interfaces**.  
+I like to understand not only **how a system works**, but also **why it works that way**, and how each component fits into the bigger picture.
 
 ---
 
-## 🚀 Highlighted Projects
+## 🚀 Featured Projects
 
-### ⚡ Impact of Weather on Electricity Consumption  
-**Data Pipeline Project (Individual)**  
-- Design and implementation of a data pipeline to analyze the influence of weather conditions on electricity consumption  
-- Data processing, transformation, and analysis  
-- Focus on data flow, consistency, and analytical insights  
+### ⚡ Weather & Electricity Consumption Data Pipeline (Individual)
+A data pipeline project analyzing how weather affects electricity usage.  
+- I designed the **data flow from ingestion to analysis**  
+- Worked on **cleaning, transforming, and structuring the data**  
+- Learned to balance **data reliability and performance**  
 
-**Technologies:** Python, SQL, Data Processing, Airflow (concepts)
-
----
-
-### 🏨 Hotel Chain Management System  
-**Java / JavaFX – Individual Project**  
-- Full-featured application for managing hotels, rooms, clients, reservations, invoices, and user roles  
-- Clear layered architecture (model, services, user interface)  
-- Strong emphasis on business logic, object-oriented design, and system consistency  
-
-**Technologies:** Java, JavaFX, OOP, MVC-inspired architecture
+**Tech:** Python, SQL, Airflow (concepts)
 
 ---
 
-### 📅 Timetable Management Application  
-**Java – Team Project**  
-- Application allowing timetable visualization for students and teachers  
-- Role-based views and structured data handling  
+### 🏨 Hotel Chain Management System (Individual)
+A full application in Java/JavaFX to manage hotels, rooms, clients, reservations, invoices, and user roles.  
+- Built with **clear layered architecture**: model, services, and user interface  
+- Focused on **business logic, OOP design, and system consistency**  
+- Designed dashboards for **different user roles**  
 
-**Technologies:** Java, IntelliJ I
+**Tech:** Java, JavaFX, OOP
+
+---
+
+### 📅 Timetable Management Application (Team Project)
+A Java application to display timetables for students and teachers.  
+- Developed **role-based views** and structured data handling  
+- Learned **collaboration in a team setting**  
+
+**Tech:** Java, IntelliJ IDEA
+
+---
+
+## 🛠️ Skills
+
+**Languages:** Python, Java, SQL, C, JavaScript, PHP  
+**Web & UI:** HTML, CSS, JavaFX  
+**Data & Big Data:** Data pipelines, analysis, Airflow (concepts), Cassandra  
+**Systems & Tools:** Git, GitHub, Object-Oriented Design, Information Systems Architecture  
+
+---
+
+## 📚 Learning & Growing
+
+Currently expanding knowledge in:  
+- Cloud Computing & Security  
+- Artificial Intelligence  
+- Business Intelligence methods and tools  
+- Advanced Information Systems Architecture
+
+---
+
+## 📫 Connect with Me
+- GitHub: **@rawabof**
