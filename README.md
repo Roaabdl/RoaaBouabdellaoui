@@ -1,24 +1,23 @@
 # RoaaBouabdellaoui
 Profil GitHub de Roaa Bouabdellaoui — Étudiante en ingénierie SI
-<!-- Header SVG Illustration -->
-<svg width="800" height="200" xmlns="http://www.w3.org/2000/svg">
-  <!-- Background -->
-  <rect width="800" height="200" fill="#f5f5f5"/>
-  <!-- Desk -->
-  <rect x="100" y="140" width="600" height="20" fill="#c4c4c4"/>
-  <!-- Laptop -->
-  <rect x="350" y="90" width="100" height="50" fill="#4b6cb7"/>
-  <rect x="355" y="95" width="90" height="40" fill="#ffffff"/>
-  <!-- Person (simplified) -->
-  <circle cx="400" cy="70" r="20" fill="#f9c4b2"/>
-  <rect x="390" y="90" width="20" height="50" fill="#4b6cb7"/>
-  <!-- Chair -->
-  <rect x="395" y="140" width="10" height="20" fill="#888"/>
-  <!-- Text -->
-  <text x="50" y="30" font-size="30" font-family="Verdana" fill="#333">
-    Roaa Bouabdellaoui
-  </text>
-  <text x="50" y="65" font-size="18" font-family="Verdana" fill="#555">
-    Information Systems Engineer | Data & Software Enthusiast
-  </text>
-</svg>
+<!-- Header image -->
+![Header](header.svg)
+
+## Skills
+
+<!-- Programming Languages -->
+![Python](https://img.shields.io/badge/Python-FFD43B?style=flat-square&logo=python&logoColor=blue)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+
+<!-- Web & UI -->
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaFX](https://img.shields.io/badge/JavaFX-007396?style=flat-square&logo=java&logoColor=white)
+
+<!-- Tools -->
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
