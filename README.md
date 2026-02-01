@@ -35,8 +35,7 @@ Information Systems Engineer & Future Ingénieur | Data, Software & Cloud
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
 </p>
 
-<h3>Tools & Methodologies</h3>
-<p>
+
 <h3>Tools & Methodologies</h3>
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="40"/>
