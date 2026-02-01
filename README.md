@@ -1,5 +1,8 @@
 <!-- Header illustration -->
-![Header](header.svg)
+
+
+
+![Header](header.png)
 
 # Roaa Bouabdellaoui
 Information Systems Engineer
@@ -35,7 +38,11 @@ Information Systems Engineer
 ![Agile](https://img.shields.io/badge/Agile-F05138?style=flat-square)
 ![Scrum](https://img.shields.io/badge/Scrum-6EAA2B?style=flat-square)
 
+## GitHub Stats
+![GitHub Followers](https://img.shields.io/github/followers/rawabof?style=flat-square)
+![GitHub Repos](https://img.shields.io/github/repo-size/rawabof?style=flat-square)
+![GitHub Commits](https://img.shields.io/github/commit-activity/m/rawabof?style=flat-square)
+
 ## Contact
 📧 roaabdl8@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/roaa-bouabdellaoui/)
-
+🔗 [LinkedIn](TON-LINKEDIN-ICI)
