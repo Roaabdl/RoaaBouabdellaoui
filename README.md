@@ -41,8 +41,8 @@ Information Systems Engineer & Future Ingénieur | Data, Software & Cloud
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/microsoft-excel.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/microsoft-powerpoint.svg" width="40"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white" width="80"/>
+<img src="https://img.shields.io/badge/PowerPoint-D24726?style=flat-square&logo=microsoft-powerpoint&logoColor=white" width="80"/>
 <img src="https://img.shields.io/badge/Agile-F79C4F?style=flat-square&logo=agile" width="80"/>
 <img src="https://img.shields.io/badge/Scrum-6DB33F?style=flat-square&logo=scrum" width="80"/>
 </p>
