@@ -1,6 +1,7 @@
 # RoaaBouabdellaoui
 Profil GitHub de Roaa Bouabdellaoui — Étudiante en ingénierie SI <!-- Hero image / illustration -->
-![Roaa working on her PC](https://via.placeholder.com/800x200?text=Roaa+at+her+PC)
+![Roaa at her PC](https://images.unsplash.com/photo-1603791440384-56cd371ee9a7?fit=crop&w=1200&h=300)
+
 
 # 👩‍💻 Hi, I'm Roaa
 
