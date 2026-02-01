@@ -1,31 +1,24 @@
 # RoaaBouabdellaoui
-Profil GitHub de Roaa Bouabdellaoui — Étudiante en ingénierie SI <!-- Hero image / illustration -->
-
-
-      ____            _       
-     |  _ \ ___  __ _| |_ ___ 
-     | |_) / _ \/ _` | __/ _ \
-     |  _ <  __/ (_| | ||  __/
-     |_| \_\___|\__,_|\__\___|
- Information Systems Engineer | Data & Software Enthusiast
-
-# Roaa Bouabdellaoui
-
-I’m an Information Systems engineering student, completing my degree through a work-study program.  
-I enjoy building **systems that solve real problems**, combining **data pipelines, software design, and system thinking**.  
-Right now, I’m exploring **cloud computing, security, and AI**, applying what I’ve already learned in projects.
-
----
-
-## About Me
-
-I like to understand not just **how a system works**, but **why it works that way**, and how each component fits into the bigger picture.  
-I focus on creating projects that are **functional, maintainable, and meaningful**, from data analysis pipelines to full applications with graphical interfaces.
-
----
-
-## Selected Projects
-
-### Weather & Electricity Consumption Data Pipeline (Individual)
-- Designed a **data pipeline** to analyze weather impact on electricity usage  
-- Implemented **data cleaning, transformati**
+Profil GitHub de Roaa Bouabdellaoui — Étudiante en ingénierie SI
+<!-- Header SVG Illustration -->
+<svg width="800" height="200" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="800" height="200" fill="#f5f5f5"/>
+  <!-- Desk -->
+  <rect x="100" y="140" width="600" height="20" fill="#c4c4c4"/>
+  <!-- Laptop -->
+  <rect x="350" y="90" width="100" height="50" fill="#4b6cb7"/>
+  <rect x="355" y="95" width="90" height="40" fill="#ffffff"/>
+  <!-- Person (simplified) -->
+  <circle cx="400" cy="70" r="20" fill="#f9c4b2"/>
+  <rect x="390" y="90" width="20" height="50" fill="#4b6cb7"/>
+  <!-- Chair -->
+  <rect x="395" y="140" width="10" height="20" fill="#888"/>
+  <!-- Text -->
+  <text x="50" y="30" font-size="30" font-family="Verdana" fill="#333">
+    Roaa Bouabdellaoui
+  </text>
+  <text x="50" y="65" font-size="18" font-family="Verdana" fill="#555">
+    Information Systems Engineer | Data & Software Enthusiast
+  </text>
+</svg>
