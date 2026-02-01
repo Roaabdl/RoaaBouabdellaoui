@@ -6,10 +6,7 @@ Information Systems Engineer & Future Ingénieur | Data, Software & Cloud
 </h3>
 <hr>
 
-
-
-
-<h2>Technical Skills</h2>
+## Technical Skills
 
 <h3>Programming Languages</h3>
 <p>
@@ -42,26 +39,17 @@ Information Systems Engineer & Future Ingénieur | Data, Software & Cloud
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>
-</p>
-
-<ul>
-<h3>Tools & Methodologies</h3>
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/microsoft-excel.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/microsoft-powerpoint.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/agile.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/scrum.svg" width="40"/>
 </p>
 
-</ul>
-
 <hr>
 
-<h2>Contact</h2>
+## Contact
 
 <p>
-Email: <a href="mailto:roaabdl8@gmail.com">roaabdl8@gmail.com</a><br>
-LinkedIn: <a href="https://www.linkedin.com/in/roâa-b-08404623b">Profile</a>
+📧 Email: <a href="mailto:roaabdl8@gmail.com">roaabdl8@gmail.com</a><br>
+🔗 LinkedIn: <a href="https://www.linkedin.com/in/roâa-b-08404623b">Profile</a>
 </p>
