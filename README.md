@@ -1,10 +1,11 @@
 <h1>Roaa Bouabdellaoui</h1>
 
-<p>
-<p style="font-size:18px; color:#555;">
-Information Systems Engineer | Data & Software | Passionate about BI, Big Data & Cloud
-</p>
+<h1 style="color:#1f2937;">Roaa Bouabdellaoui</h1>
+<h3 style="color:#4b5563;">
+Information Systems Engineer & Future Ingénieur | Data, Software & Cloud
+</h3>
 <hr>
+
 
 
 
@@ -44,9 +45,16 @@ Information Systems Engineer | Data & Software | Passionate about BI, Big Data &
 </p>
 
 <ul>
-<li>Excel (advanced)</li>
-<li>PowerPoint</li>
-<li>Agile & Scrum</li>
+<h3>Tools & Methodologies</h3>
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/microsoft-excel.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/microsoft-powerpoint.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/agile.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/scrum.svg" width="40"/>
+</p>
+
 </ul>
 
 <hr>
