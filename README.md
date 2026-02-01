@@ -1,32 +1,45 @@
 # RoaaBouabdellaoui
 Profil GitHub de Roaa Bouabdellaoui — Étudiante en ingénierie SI
-# 👋 Salut, je suis Roaa !
+## 👋 Hi, I'm Roaa
 
-Étudiante en **2ᵉ année de cycle ingénieur** en conception de systèmes d'information, passionnée par **l'analyse, la modélisation et le développement de SI**.  
-Je suis toujours curieuse de nouvelles technologies et prête à collaborer sur des projets stimulants ! 🚀
-
----
-
-## 💻 Compétences
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-- Conception et modélisation de systèmes d'information  
-- Développement de petites applications et scripts  
-- Travail collaboratif sur projets académiques  
+🎓 Engineering student in **Information Systems**, with a strong focus on **data, system design, and architecture**.  
+I work on projects that combine **data processing, software engineering, and structured system thinking**, and I’m currently expanding my skills toward **cloud, security, and AI**.
 
 ---
 
-## 📂 Projets
-- **Projet solo GitHub** : mini-app d'analyse SI (Python, SQL)  
-- **Collaboratrice** sur deux projets académiques (non publiés)  
-- **Projets en cours** : je continue à publier de nouveaux projets pour enrichir mon profil !
+## 🧭 Main Areas of Interest
+- Information Systems Design & Architecture  
+- Data Engineering & Big Data  
+- Software Engineering (Object-Oriented Design)  
+- Data Analysis & Decision Support Systems  
 
 ---
 
-## 🎯 Objectif
-Je recherche une **alternance dès mai 2026 jusqu’à août 2027 (3j/2j)** pour ma dernière année, afin de contribuer à des projets en **conception et développement de systèmes d'information** et continuer à apprendre dans un environnement stimulant.
+## 🚀 Highlighted Projects
 
+### ⚡ Impact of Weather on Electricity Consumption  
+**Data Pipeline Project (Individual)**  
+- Design and implementation of a data pipeline to analyze the influence of weather conditions on electricity consumption  
+- Data processing, transformation, and analysis  
+- Focus on data flow, consistency, and analytical insights  
+
+**Technologies:** Python, SQL, Data Processing, Airflow (concepts)
+
+---
+
+### 🏨 Hotel Chain Management System  
+**Java / JavaFX – Individual Project**  
+- Full-featured application for managing hotels, rooms, clients, reservations, invoices, and user roles  
+- Clear layered architecture (model, services, user interface)  
+- Strong emphasis on business logic, object-oriented design, and system consistency  
+
+**Technologies:** Java, JavaFX, OOP, MVC-inspired architecture
+
+---
+
+### 📅 Timetable Management Application  
+**Java – Team Project**  
+- Application allowing timetable visualization for students and teachers  
+- Role-based views and structured data handling  
+
+**Technologies:** Java, IntelliJ I
