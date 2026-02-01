@@ -1,11 +1,12 @@
 <h1>Roaa Bouabdellaoui</h1>
 
-<p>
-Information Systems Engineering student<br>
-Data, Software & Information Systems
+<h1>Roaa Bouabdellaoui</h1>
+<p style="font-size:18px; color:#555;">
+Information Systems Engineer | Data & Software | Passionate about BI, Big Data & Cloud
 </p>
-
 <hr>
+
+
 
 <h2>Technical Skills</h2>
 
