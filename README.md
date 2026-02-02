@@ -2,7 +2,7 @@
 
 <h1 style="color:#1f2937;">
 <h3 style="color:#4b5563;">
-Information Systems Engineer & Future Ingénieur | Data, Software & Cloud
+Futur Information Systems Engineer| Data, Software & Cloud
 </h3>
 <hr>
 
